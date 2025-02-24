@@ -24,7 +24,9 @@ Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Transformer, 
 
 REFERENCES DATASETS:
 https://www.kaggle.com/datasets/szaitseff/tenviz-test-data-time-series-1
+
 https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price
+
 https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment/data
 
 
