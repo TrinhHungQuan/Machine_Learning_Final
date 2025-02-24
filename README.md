@@ -22,6 +22,11 @@ Perform:
 Question 3: Deep Machine Learning Method:
 Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Transformer, etc... program applying the chosen model to a classification problem.
 
+REFERENCES DATASETS:
+https://www.kaggle.com/datasets/szaitseff/tenviz-test-data-time-series-1
+https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price
+https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment/data
+
 
 
 
