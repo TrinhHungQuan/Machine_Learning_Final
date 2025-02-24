@@ -1,5 +1,5 @@
 Question 1:The optimization methods:
-1)	Gradient Descent (GD): Batch Gradient Descent; Stochastic Gradient Descent (SGD); Mini-Batch Gradient Descent
+1)	Gradient Descent
 2)	Momentum
 3)	Adagrad (Adaptive Gradient Algorithm)
 4)	RMSProp (Root Mean Square Propagation)
@@ -11,7 +11,7 @@ Question 2: Stock Price Prediction Problem (Opening Price) Based on the Followin
 •	Industry type of the stock.
 •	Time of the year (e.g., by day, by month).
 •	Some macroeconomic indicators: self-selected from reliable sources (e.g., GDP, price indices, etc.).
-Tasks to Perform:
+Perform:
 1.	Experiment with the following methods:
   o	Feedforward Neural Network
   o	Recurrent Neural Network (RNN)
@@ -20,8 +20,7 @@ Tasks to Perform:
 3.	Evaluate the models and compare them, plotting the results.
 
 Question 3: Deep Machine Learning Method:
-For example, Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Transformer, etc. 
-and develop a program applying the chosen model to a classification problem.
+Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Transformer, etc... program applying the chosen model to a classification problem.
 
 
 
